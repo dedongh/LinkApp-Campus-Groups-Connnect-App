@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "798957872322",
+    "firebase_url": "https://linkapp-7460b.firebaseio.com",
+    "project_id": "linkapp-7460b",
+    "storage_bucket": "linkapp-7460b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798957872322:android:405ac5a7fcc440bd",
+        "android_client_info": {
+          "package_name": "com.engineerskasa.linkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798957872322-9gpkr0dahcvmsl3qvk6m6q5p92u6acob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.engineerskasa.linkapp",
+            "certificate_hash": "7085a2778b76a1b69c85292c6dd17a29d51b7ed7"
+          }
+        },
+        {
+          "client_id": "798957872322-r58jb5f4sipp0vtplso577cendiufk9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwv6UOWWv3QPvJY8UvGyoqYW_n6r8ghOU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798957872322-r58jb5f4sipp0vtplso577cendiufk9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
